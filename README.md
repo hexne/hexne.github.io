@@ -1,13 +1,13 @@
-# Ne-GHのBlog
+# hexne'Blog
 
-欢迎访问Ne-GH的博客
+欢迎访问hexne的博客
 
 <!-- .slide -->
 
 ## Contact
 
 - Site
-  - **<https://Ne-GH.github.io>**
+  - **<https://hexne.github.io>**
 
 
 
